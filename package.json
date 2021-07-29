@@ -1,0 +1,24 @@
+{
+  "name": "basictwitchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bat-Cave/basictwitchbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bat-Cave/basictwitchbot/issues"
+  },
+  "homepage": "https://github.com/Bat-Cave/basictwitchbot#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "tmi.js": "^1.8.3"
+  }
+}
